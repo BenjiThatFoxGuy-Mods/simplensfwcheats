@@ -1,4 +1,5 @@
 # Simple NSFW Cheats
+### A scriptmod for The Sims 4
 [![LatestMacStatusBadge](https://img.shields.io/badge/TS4%20latest-works-darkred?style=social&logo=apple)]()
 [![LatestMacStatusBadge](https://img.shields.io/badge/TS4%20latest-works-darkred?style=social&logo=windows)]()
 [![ModVersion](https://img.shields.io/badge/Mod%20Version-v0.1-darkred?style=social)](https://github.com/BenjiThatFoxGuy-Mods/simplensfwcheats/releases/tag/v0.1)
