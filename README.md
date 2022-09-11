@@ -8,6 +8,7 @@ This mod is meant to be a basic handy dandy tool you may use to perform various 
 ##### This mod requires [S4CL](https://github.com/ColonolNutty/Sims4CommunityLibrary) and [WW](https://wickedwhimsmod.com).
 Take a look at the help command in-game, the pop-up on loading a household up will tell you more.
 ### [Download from the releases section](https://github.com/BenjiThatFoxGuy-Mods/simplensfwcheats/releases)
+### [Visit the GitHub Wiki for Documentation](https://github.com/BenjiThatFoxGuy-Mods/simplensfwcheats/wiki)
 
 ## Please note:
 ### This mod is open-source only for transparency. 
