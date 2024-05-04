@@ -10,5 +10,5 @@ def bonerkillaction(_connection=None):
 
 @sims4.commands.Command('bonerkill', command_type=sims4.commands.CommandType.Live)
 def bonerkillactionalias(_connection=None):
-    sims4.commands.execute('viagra', None)
+    sims4.commands.execute('softy', None)
     output = sims4.commands.CheatOutput(_connection)
